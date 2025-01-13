@@ -1,0 +1,13 @@
+git clone ...
+
+npm init -y/bun init
+
+# write code
+
+git add .
+git commit -m "..."
+git push
+
+# pull request
+
+...
